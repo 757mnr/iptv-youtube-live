@@ -35,7 +35,7 @@ for (const channel of channels) {
   const item = `
 
 #EXTINF:-1 group-title="${title}" tvg-language="${channel.language}" tvg-logo="${channel.logo}", ${channel.name}
-https://livefeed.757live.workers.dev/live/${channel.youtube}.m3u8`
+https://livefeed3.757live.workers.dev/${channel.youtube}.m3u8`
 
   playlist.write(item)
 
