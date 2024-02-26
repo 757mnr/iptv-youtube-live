@@ -1,10 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 group-title=" Telugu" tvg-language="" tvg-logo="https://wsrv.nl/?key&w=400&h=400&url=https://upload.wikimedia.org/wikipedia/en/3/37/Emblem_of_Andhra_Pradesh.svg", AP Government
+https://livefeed3.757live.workers.dev/channel/@@IPRAPDept.m3u8
+
 #EXTINF:-1 group-title="Exclusive" tvg-language="" tvg-logo="https://wsrv.nl/?key&w=400&h=400&url=https://media.bazaarvoice.com/Shutterstock_1678910089.png", Live Events 
 https://livefeed3.757live.workers.dev/channel/@ANINewsIndia.m3u8
 
 #EXTINF:-1 group-title="Exclusive" tvg-language="" tvg-logo="https://wsrv.nl/?key&w=400&h=400&url=https://media.bazaarvoice.com/Shutterstock_1678910089.png", Live Events 
 https://livefeed3.757live.workers.dev/channel/@NarendraModi.m3u8
+
+#EXTINF:-1 group-title="Exclusive" tvg-language="" tvg-logo="https://wsrv.nl/?key&w=400&h=400&url=https://media.bazaarvoice.com/Shutterstock_1678910089.png", Live Events 
+https://livefeed3.757live.workers.dev/channel/@Reuters.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-language="" tvg-logo="https://wsrv.nl/?key&w=400&h=400&url=https://manatolivelugu.com/wp-content/uploads/2023/05/Mana-Tolivelugu-Logo-1.png", Mana Toli Velugu 
 https://livefeed3.757live.workers.dev/channel/@ManaToliVelugu.m3u8
