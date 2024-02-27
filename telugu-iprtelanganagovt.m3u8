@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 group-title=" Telugu (IPRTelanganaGovt)" tvg-language="IPRTelanganaGovt" tvg-logo="https://wsrv.nl/?key&w=400&h=400&url=https://upload.wikimedia.org/wikipedia/en/6/61/Emblem_of_Telangana.svg", TG Government
+#EXTINF:-1 group-title=" Telugu (IPRTelanganaGovt)" tvg-id="IPRTelanganaGovt" tvg-logo="https://wsrv.nl/?key&w=400&h=400&url=https://upload.wikimedia.org/wikipedia/en/6/61/Emblem_of_Telangana.svg", TG Government
 https://livefeed3.757live.workers.dev/channel/@IPRTelanganaGovt.m3u8
