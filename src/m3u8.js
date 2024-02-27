@@ -29,7 +29,7 @@ playlist.write('#EXTM3U')
 const playlists = new Map()
 
 for (const channel of channels) {
-  let title = `${channel.group} (${channel.language})`.replace(' ()', '')
+  let title = `${channel.group} (${channel.language1})`.replace(' ()', '')
   if (title === '') { title = 'Ungrouped' }
 
   const item = `
